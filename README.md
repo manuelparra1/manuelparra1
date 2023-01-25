@@ -4,7 +4,12 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+
 ## About me
+
+<a href="www.linkedin.com/in/manuelparra1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
+</a>
 
 My name is Manuel Parra.  I'm currently a student at Codeup's San Antonio Vogue campus.
 
